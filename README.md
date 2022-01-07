@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AWS,MICROSERVICES
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help;
-- 💞️ I’m looking to collaborate on remote 
+- 💞️ I’m looking to collaborate on other content creators 
 - 📫 How to reach me: Loading...;
 
 <!---
